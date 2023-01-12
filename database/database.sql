@@ -1,4 +1,4 @@
---
+-- TESTING COMMENT
 -- PostgreSQL database dump
 --
 
